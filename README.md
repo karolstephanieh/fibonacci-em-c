@@ -1,6 +1,6 @@
 # Encontrar números da série Fibonacci
 
-Usando Linguagem C para encontrar os número da sério Fibonacci
+Usando Linguagem C para encontrar os número da série Fibonacci usando while e for.
 
 ## Questão:
 
